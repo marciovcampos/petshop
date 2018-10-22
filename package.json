@@ -1,0 +1,22 @@
+{
+  "name": "petshop",
+  "version": "1.0.0",
+  "description": "Trabalho da disciplina de Desenvovilmento de Aplicações Web para Dispositivos Móveis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "html5",
+    "css",
+    "javascript",
+    "jquery"
+  ],
+  "author": "Márcio Vinícius",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
+  }
+}

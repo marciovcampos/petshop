@@ -1,0 +1,64 @@
+{
+    "Candidatos": [
+        {
+            "id": "1",
+            "nome": "Antipulgas e Carrapatos",
+            "descricao": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam nec placerat lacus. Nam nec feugiat est. Curabitur scelerisque dictum sodales. Nam eget velit ipsum. Vestibulum sodales lacus ipsum, luctus scelerisque mi tempus eu. Phasellus viverra urna vitae rutrum tempus. Mauris vulputate ultrices sapien, eu semper sapien vestibulum eget. Nunc sed tincidunt magna. Aliquam quis blandit justo, eget placerat sem. Fusce nisi sem, facilisis non porta ac, aliquet sit amet lacus.",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/guilherme_boulos.jpg"
+        },
+        {
+            "id": "2",
+            "nome": "Ração Premier Golden",
+            "descricao": "Donec vitae quam sem. Vestibulum ante eros, feugiat eu sem et, rutrum euismod ipsum. Praesent vitae nulla vitae tortor tempor eleifend non vel mi. Aenean aliquet eros ut diam scelerisque auctor. Phasellus quis ante ornare, vulputate purus quis, gravida libero. Aliquam dignissim dapibus dolor eget rhoncus. Nunc at odio a mauris rutrum aliquet sed hendrerit lectus. Quisque velit ligula, facilisis dictum lorem ac, interdum elementum enim. Proin dictum, sem non placerat posuere, ex justo varius risus, id tincidunt magna quam sed est. Etiam lobortis ultrices augue nec commodo. Sed maximus tristique purus ac blandit. Curabitur ut odio eget nulla placerat porttitor.",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/vera_lucia.jpg"
+        },
+        {
+            "id": "3",
+            "nome": "Ração Royal Canin",
+            "descricao": "Quisque cursus neque ut augue maximus aliquet. Sed at bibendum libero, vitae vestibulum tellus. Donec nec diam nibh. Fusce et dolor egestas, vulputate ipsum eget, mattis nisl. Nulla eu imperdiet tellus. In hac habitasse platea dictumst. Etiam ac commodo libero, eget finibus purus. Aliquam nibh sem, semper eu condimentum ac, ornare at sem.",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/fernando_haddad.jpg"
+        },
+        {
+            "id": "4",
+            "nome": "Bebedouro Galileos",
+            "descricao": "In rutrum lacus ligula, vel suscipit odio mattis sed. Praesent urna velit, vestibulum dapibus ultrices ac, fermentum in mi. Suspendisse vestibulum euismod mollis. Aliquam varius condimentum pharetra. Etiam pharetra commodo nulla et euismod. Vestibulum vehicula eget purus nec pretium. Suspendisse rutrum purus non mi dapibus porttitor. In sed dolor vitae mauris iaculis pretium mattis ac turpis. Aliquam ultrices eu odio nec mattis. Proin vitae nibh erat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Etiam finibus eros vel tempus vestibulum.",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/ciro_gomes.jpg"
+        },
+        {
+            "id": "5",
+            "nome": "Areia Sanitária",
+            "descricao": "Vivamus lacinia ipsum consectetur arcu posuere mattis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Donec euismod velit quis purus condimentum, eget volutpat quam rutrum. Maecenas ultrices urna eget magna eleifend dapibus. Donec fringilla, lectus sed scelerisque mattis, tortor turpis egestas mauris, vitae vulputate ex eros sit amet tellus. Sed eros urna, imperdiet sit amet leo a, tristique pharetra nulla. Nullam orci turpis, commodo eu porttitor a, feugiat eget nulla. Fusce sodales, dui eu viverra commodo, neque ante vulputate turpis, quis tincidunt ligula massa quis sapien. Aliquam finibus tempus velit, et viverra ex mollis vitae. Integer interdum risus rhoncus nunc suscipit luctus non at magna. Integer libero sapien, bibendum id urna vel, maximus rutrum ex. Aenean tristique mauris ut nulla semper, vel sollicitudin risus tincidunt.",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/marina_silva.jpg"
+        },
+        {
+            "id": "6",
+            "nome": "Comedouro Chalesco",
+            "descricao": "Morbi malesuada magna in commodo vulputate. Aliquam nunc sem, aliquet suscipit libero sit amet, molestie dignissim arcu. Sed vitae justo dui. Aliquam feugiat odio in ipsum blandit, a aliquam velit aliquet. Curabitur lobortis velit consectetur tristique auctor. Morbi porta tellus non odio euismod, sit amet feugiat augue porta. Vestibulum porta ornare purus id tempor. Suspendisse ut felis et libero malesuada ullamcorper. Pellentesque a consectetur felis, ut interdum felis.",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/alvaro_dias.jpg"
+        },
+        {
+            "id": "7",
+            "nome": "Bebedouro e Comedouro PetBamboo",
+            "descricao": "In a ex mollis est vestibulum pretium. Nunc a dapibus nulla. Fusce nec lacinia ipsum. Integer semper feugiat lacus, a facilisis massa cursus in. Quisque bibendum volutpat rutrum. Integer id massa sed sapien efficitur iaculis. Proin eleifend eu dui quis consectetur. Donec malesuada sagittis magna et accumsan. Integer urna purus, luctus sit amet orci at, hendrerit vehicula mi. Praesent eleifend orci quis rutrum sollicitudin.",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/henrique_meirelles.jpg"
+        },
+        {
+            "id": "8",
+            "nome": "Geraldo Alckmin",
+            "descricao": "Pellentesque finibus consequat cursus. In aliquam congue ligula, sit amet laoreet ligula. In aliquam sapien ut semper commodo. Vivamus eget sodales sapien, at tempor arcu. Mauris quam ante, laoreet ut vestibulum ut, dapibus sed justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin quis turpis lectus. Cras auctor ex eget arcu feugiat, eget sollicitudin purus semper. Aenean ultrices arcu sit amet facilisis maximus. Cras a elit a nisl vehicula porta quis ac urna. Vivamus odio lacus, finibus eget vehicula vitae, condimentum vitae purus. Fusce euismod scelerisque velit. Morbi suscipit justo nisi, id mollis magna tincidunt ut. Cras vel neque molestie, feugiat tortor venenatis, fringilla neque. Curabitur accumsan est sed lectus elementum dignissim. Suspendisse sagittis fermentum lacus sed imperdiet.",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/geraldo_alckmin.jpg"
+        },
+        {
+            "id": "9",
+            "nome": "Ração Golden Gatos Adultos",
+            "descricao": "Nulla eu vestibulum lacus. Suspendisse sollicitudin porta justo, et dictum odio congue sit amet. Donec finibus, augue at vestibulum dapibus, dolor diam feugiat libero, eu elementum nulla nibh id lectus. Suspendisse id lorem semper, gravida ligula nec, pellentesque lorem. Ut fermentum nisl orci, a commodo tortor dictum in. Aenean sodales efficitur ligula, ut pulvinar est viverra sit amet. Phasellus vitae odio ac nibh efficitur suscipit. Phasellus ac diam auctor, posuere ligula ut, tincidunt libero. Ut lobortis in dolor sed lacinia. Sed cursus vestibulum orci a scelerisque. Nam ac suscipit nisl. Curabitur gravida maximus augue, maximus sodales tortor ullamcorper ac.",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/joao_amoedo.jpg"
+        },
+        {
+            "id": "10",
+            "nome": "Ração Premier Pet Golden",
+            "descricao": "Etiam sit amet posuere mi. Aenean at tincidunt arcu. Maecenas eleifend urna fringilla mi interdum pulvinar. In hac habitasse platea dictumst. Nam eget libero nec metus finibus luctus feugiat et risus. Donec vel mauris felis. Nullam eget convallis est. Cras vestibulum justo sit amet enim imperdiet, eu sagittis elit pellentesque. In sed dignissim purus. Nam molestie vitae neque elementum placerat. Sed consectetur sagittis eros, in euismod orci commodo at. Donec lacinia, enim nec posuere porta, purus lorem vehicula diam, id sollicitudin neque turpis a neque. Phasellus ornare, ligula eu viverra suscipit, sem lacus sollicitudin tellus, in congue tortor orci tempus sem. Proin tincidunt odio sed leo facilisis congue. Nam et porta nisl.",
+            "foto": "https://s3.amazonaws.com/storagevotocerto/candidatos/jair_bolsonaro.jpg"
+        }
+    ]
+}
