@@ -1,14 +1,76 @@
 <!DOCTYPE html>
-<html>
+<html lang="">
 <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Page Title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
-    <script src="main.js"></script>
-</head>
-<body>
-    <h1>PET SHOP</h1>
-</body>
-</html>
+    <title>PET SHOP</title>
+    
+    <!-- Bootstrap CSS -->
+    <link href="/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/styles/style.css" rel="stylesheet">
+    
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.3/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+        
+        <div class="navbar navbarPadrao">
+            <div class="container">
+                <img src="imgs/logo_header.png" alt="PET SHOP" height="100px;">    
+                <img>
+            </div>
+        </div>
+        
+    </head>
+    <body>
+        
+        <!-- inicio slider -->
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+                <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+                <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <a href="https://br.freepik.com/vetores-gratis/banners-agradaveis-com-animais_947831.htm" target="_blank"><img class="d-block w-100" src="imgs/banner1.png" alt="Banner 1"></a>
+                </div>
+                <div class="carousel-item">
+                    <a href="https://br.freepik.com/vetores-gratis/banners-agradaveis-com-animais_947831.htm" target="_blank"><img class="d-block w-100" src="imgs/banner2.png" alt="Banner 2"></a>
+                </div>                
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+        <!-- fim slide -->
+        
+        
+        
+        <!-- inicio footer -->
+        <footer class="text-muted">
+            <div class="container">
+                <p class="float-right">
+                    <a href="#">Back to top</a>                    
+                </p>
+
+                <p>Pet Shop is a open-source project written with web technologies. <br/>
+                Developed by <a href="https://github.com/marciovcampos" target="_blank">Márcio Vinícius</a> under the <a href="https://github.com/marciovcampos/petshop/blob/master/LICENSE" target="_blank"> MIT license</a></p>                
+            </div>
+        </footer>
+        <!-- fim footer -->
+        
+        <!-- jQuery -->
+        <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+        <!-- Bootstrap JavaScript -->
+        <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    </body>
+    </html>
+    

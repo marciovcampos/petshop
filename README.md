@@ -1,9 +1,9 @@
-<img align="right" src="https://github.com/marciovcampos/petshop/blob/master/doc/logo_200.png""/>
+<img align="right" src="https://github.com/marciovcampos/petshop/blob/master/docs/logo_200.png"/>
 
 What is the Pet Shop?
 =====================
 
-Pet Shop is a open-source project written with WEB
+Pet Shop is a open-source project written with web technologies.
 
 This app was develop for discipline DESENVOLVIMENTO DE APLICAÇÕES WEB PARA DISPOSITIVOS MÓVEIS for the post-graduation Desenvolvimento de Aplicações para Dispositivos Móveis at PUC Minas (Brazil).
 
