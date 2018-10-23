@@ -51,7 +51,7 @@
         },
         {
             "id": "8",
-            "name": "Geraldo Alckmin",
+            "name": "Ração Golden Cães Adultos",
             "description": "Pellentesque finibus consequat cursus. In aliquam congue ligula, sit amet laoreet ligula. In aliquam sapien ut semper commodo. Vivamus eget sodales sapien, at tempor arcu. Mauris quam ante, laoreet ut vestibulum ut, dapibus sed justo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin quis turpis lectus. Cras auctor ex eget arcu feugiat, eget sollicitudin purus semper. Aenean ultrices arcu sit amet facilisis maximus. Cras a elit a nisl vehicula porta quis ac urna. Vivamus odio lacus, finibus eget vehicula vitae, condimentum vitae purus. Fusce euismod scelerisque velit. Morbi suscipit justo nisi, id mollis magna tincidunt ut. Cras vel neque molestie, feugiat tortor venenatis, fringilla neque. Curabitur accumsan est sed lectus elementum dignissim. Suspendisse sagittis fermentum lacus sed imperdiet.",
             "price": "102.99",
             "image": "https://raw.githubusercontent.com/marciovcampos/petshop/master/imgs/product_8.png"

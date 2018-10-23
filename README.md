@@ -21,15 +21,15 @@ If you liked the project or if Pet Shop helped you, please give a star ;)
 - Bootstrap 4
 - Fake API with JSON Server
 
-# Screen Shots
+## Screen Shots
 
-## Home Page
+### Home Page
 
-## Product Page
+### Product Page
 
-## Shopping Cart
+### Shopping Cart
 
-## Login Page
+### Login Page
 
-# About:
+## About:
 Pet Shop was developed by [Márcio Vinícius](https://github.com/marciovcampos) under the [MIT license](LICENSE).
