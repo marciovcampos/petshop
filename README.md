@@ -19,6 +19,7 @@ If you liked the project or if Pet Shop helped you, please give a star ;)
 - JavaScript
 - JQuery
 - Bootstrap 4
+- Fake API with JSON Server
 
 # Screen Shots
 
