@@ -65,23 +65,18 @@
         <!-- fim lista produtos -->               
         
         <!-- inicio footer -->
-        <footer class="text-muted">
-            <div class="container">
-                <br/>
-                <p class="float-right">
-                    <a href="#">Back to top</a>                    
-                </p>
-                
-                <p>Pet Shop is a open-source project written with web technologies. <br/>
-                    Developed by <a href="https://github.com/marciovcampos" target="_blank">Márcio Vinícius</a> under the <a href="https://github.com/marciovcampos/petshop/blob/master/LICENSE" target="_blank"> MIT license</a></p>                
-                </div>
-            </footer>
-            <!-- fim footer -->
-            <script type="text/javascript" src="scripts/script.js"></script>
-            <!-- jQuery -->
-            <script src="/node_modules/jquery/dist/jquery.min.js"></script>
-            <!-- Bootstrap JavaScript -->
-            <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
-        </body>
-        </html>
+        <div id="footer"></div>
+        <!-- fim footer -->
+        <script type="text/javascript" src="scripts/script.js"></script>
+        <!-- jQuery -->
+        <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+        <!-- Bootstrap JavaScript -->
+        <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
         
+        <script>
+            $("#footer").load("includes/footer.html"); 
+        </script> 
+        
+    </body>
+    </html>
+    
