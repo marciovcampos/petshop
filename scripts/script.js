@@ -33,7 +33,7 @@ function adicionaProduto(produto){
                             <div class="d-flex justify-content-between align-items-center"> 
                             </div>
                             <div class="text-right">
-                                <button type="button" class="btn btn-success text-right"> 
+                                <button type="button" class="btn btn-success text-right" onclick="window.location.href='/cart.html?id=${produto.id}'"> 
                                     <i class="fas fa-shopping-cart"></i> ADD TO CART
                                 </button> 
                             </div>

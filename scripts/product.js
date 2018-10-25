@@ -40,7 +40,7 @@ function montaHtmlProduto(produto){
                         <br/><p><b>Description</b></p>
                         <p>${produto.description}</p>
                         <div class="text-right">
-                            <button type="button" class="btn btn-success text-right"> 
+                            <button type="button" onclick="window.location.href='/cart.html?id=${produto.id}'" class="btn btn-success text-right"> 
                                 <i class="fas fa-shopping-cart"></i> ADD TO CART
                             </button> 
                         </div>

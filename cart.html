@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Pet Shop</title>
+    <link rel="icon" type="images/png" sizes="32x32" href="imgs/favicon.png">
+    
+    <!-- Bootstrap CSS -->
+    <link href="/node_modules/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/node_modules/@fortawesome/fontawesome-free/css/all.min.css" rel="stylesheet">
+    <link href="/styles/login.css" rel="stylesheet">
+    
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.3/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+        <![endif]-->
+
+    <div id="header"></div>  
+                      
+    </head>
+    <body>
+        
+    <div class="bg-light">
+        <div class="container">
+            <br/><br/><h2>My Cart</h2>
+            <div id="product"></div>
+        </div>        
+    </div>
+       
+    <!-- inicio footer -->
+    <div id="footer"></div>
+    <!-- fim footer -->
+               
+    <!-- jQuery -->
+    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+    <!-- Bootstrap JavaScript -->
+    <script src="/node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <script src="/scripts/cart.js"></script>
+
+    <script>         
+          $("#header").load("includes/header_full.html"); 
+          $("#footer").load("includes/footer.html");  
+    </script> 
+</body>
+</html>
