@@ -19,21 +19,25 @@ If you liked the project or if Pet Shop helped you, please give a star ;)
 - JavaScript
 - JQuery
 - Bootstrap 4
-- Fake API with JSON Server ([Hosting in Heroku](https://heroku.com/))
+- Fake API with JSON Server ([Hosting in Heroku](https://petshop2018.herokuapp.com/)
 - Site Hosting in [Netlify](https://www.netlify.com/)
 
 ## Live Demo
-A live demo is available in [https://petshop2018.netlify.com/](https://petshop2018.netlify.com/)
+A live demo is available in [https://petshop2018.netlify.com/](https://petshop2018.netlify.com/) .
 
 ## Screen Shots
 
 ### Home Page
 
+<img src="https://github.com/marciovcampos/petshop/blob/master/docs/home.png"/>
+
 ### Product Page
 
-### Shopping Cart
+<img src="https://github.com/marciovcampos/petshop/blob/master/docs/product.png"/>
 
 ### Login Page
+
+<img src="https://github.com/marciovcampos/petshop/blob/master/docs/login.png"/>
 
 ## About:
 Pet Shop was developed by [Márcio Vinícius](https://github.com/marciovcampos) under the [MIT license](LICENSE).
