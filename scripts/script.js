@@ -26,7 +26,7 @@ function adicionaProduto(produto){
     
     var trow = `<div class="col-md-4">
                     <div class="card mb-4 shadow-sm">
-                        <img class="card-img-top" src="${produto.image}" alt="${produto.name}">
+                        <a href="product.html?id=${produto.id}"><img class="card-img-top" src="${produto.image}" alt="${produto.name}"></a>
                         <h4 class="text-center">${produto.name}</h4>
                         <div class="card-body">
                             <h3>$ ${produto.price}</h3>

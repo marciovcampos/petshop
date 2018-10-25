@@ -19,7 +19,11 @@ If you liked the project or if Pet Shop helped you, please give a star ;)
 - JavaScript
 - JQuery
 - Bootstrap 4
-- Fake API with JSON Server
+- Fake API with JSON Server ([Hosting in Heroku](https://heroku.com/))
+- Site Hosting in [Netlify](https://www.netlify.com/)
+
+## Live Demo
+A live demo is available in [https://petshop2018.netlify.com/](https://petshop2018.netlify.com/)
 
 ## Screen Shots
 
